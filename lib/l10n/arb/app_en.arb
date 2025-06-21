@@ -1,0 +1,24 @@
+{
+    "@@locale": "en",
+    "noInternetConnection": "No internet connection.",
+    "formatException": "Format exception",
+    "rememberMe": "Remember me",
+    "signIn": "Sign in",
+    "passwordHint": "Enter password",
+    "forgetPassword": "Forgot login info?",
+    "okay":"Okay",
+    "success":"Success",
+    "errorEncountered": "Error encountered",
+    "serverError": "Server error",
+    "requestFailed": "Request failed",
+    "connectionTimedOut": "Connection timed out",
+    "interactiveBoxLayout": "Interactive Box Layout UI in Flutter",
+    "error": "Error",
+    "retry": "Retry",
+    "enterNumber": "Enter number (5–25)",
+    "noBoxes": "No boxes"
+
+}
+
+
+
