@@ -63,9 +63,11 @@ class _DefaultSplashPageState extends State<DefaultSplashPage>
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    const Image(
-                      image: AssetImage("assets/images/logo.png"),
+                     Image(
+                      image: const AssetImage("assets/images/logo.png"),
                       fit: BoxFit.contain,
+                      height: 200.h,
+                      width: 200.w,
                     ),
                     60.verticalSpace,
                   ],

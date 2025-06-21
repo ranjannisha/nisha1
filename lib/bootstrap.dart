@@ -29,7 +29,6 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
   ///init and configure di
   await configureInjection();
   WidgetsFlutterBinding.ensureInitialized();
-  // await Firebase.initializeApp();
   Zone.current.runGuarded(() async {
     runApp(await builder());
   });
